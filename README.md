@@ -14,6 +14,10 @@ Create bookstore app using Ruby on Rails and React Framework
 
 To get a local copy up and running follow these simple example steps.
 
+## API DataURL
+http://127.0.0.1:3000/api/v1/books
+
+
 ### Prerequisites
 
 - A command line interface
